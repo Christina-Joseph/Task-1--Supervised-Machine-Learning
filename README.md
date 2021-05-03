@@ -9,5 +9,5 @@ In this task, we need to predict the percentage score of a student based on the 
 
 #Dataset
 
-Dataset available at  https://bit.ly/3kXTdox
+Dataset available at http://bit.ly/w-data
 
